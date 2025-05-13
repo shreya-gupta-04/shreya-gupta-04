@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
-<h3 align="center">💻 CS Undergrad & Full Stack Developer</h3>
+<h3 align="center">💻 CSE Undergrad & Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-gupta-04&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-gupta-04" /> </p>
 
